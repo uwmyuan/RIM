@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>The r-interdiciton median problem</description>
+	<configs>
+		<config category="opl" default="true" name="config 1">
+			<ref name="RIM.mod" type="model">
+			</ref>
+			<ref name="RIM.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
